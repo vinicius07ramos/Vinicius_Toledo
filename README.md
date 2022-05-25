@@ -1,3 +1,7 @@
+# Equipe:
+1. Vinicius Toledo
+2. Ricardo de Magalhães Simões
+3. Diogo Lima
 # Prof Ricardo de Magalhães Simões
 
 Este arquivo funciona como um documento de "apresentação" do projeto.
