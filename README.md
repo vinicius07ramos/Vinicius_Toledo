@@ -14,11 +14,11 @@ Complete o texto, indicando o que você quer fazer:
 
 5) Cronograma inicial (datas)
 
-5.1) Início do Projeto:
-5.2) Primeira Versão:
-5.3) Divulgação seletiva:
-5.4) Análise de Comentários:
-5.5) Revisão do Projeto:
-5.6) Divulgação da Revisão:
-5.7) Divulgação Ampla:
-5.8) Preparativo para Segunda Versão:
+5.1) Início do Projeto:  
+5.2) Primeira Versão:  
+5.3) Divulgação seletiva:  
+5.4) Análise de Comentários:  
+5.5) Revisão do Projeto:  
+5.6) Divulgação da Revisão:  
+5.7) Divulgação Ampla:  
+5.8) Preparativo para Segunda Versão:  
